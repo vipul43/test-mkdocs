@@ -1,0 +1,10 @@
+site_name: Test docs
+site_description: 'A docs test'
+site_author: 'Sai Vipul Mohan'
+docs_dir: docs/
+repo_name: 'vipul43/test-mkdocs'
+repo_url: 'https://github.com/vipul43/test-mkdocs'
+nav:
+    - Home: index.md
+theme:
+  name: 'material'
