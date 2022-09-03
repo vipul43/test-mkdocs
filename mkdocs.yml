@@ -6,5 +6,6 @@ repo_name: 'vipul43/test-mkdocs'
 repo_url: 'https://github.com/vipul43/test-mkdocs'
 nav:
     - Home: index.md
+    - Test: index2.md
 theme:
   name: 'material'
